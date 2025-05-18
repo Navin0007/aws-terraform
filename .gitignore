@@ -1,0 +1,15 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+crash.log
+override.tf
+override.tf.json
+terraform.tfplan
+terraform.tfstate
+terraform.tfstate.backup
+
+# IDE folders
+.idea/
+
